@@ -1,4 +1,4 @@
-# Quick Start - Project With Laravel 8.x and AdminLTE 3 (feat. Docker)
+# Quick Start - Projeto com Laravel 8.x e AdminLTE 3 (feat. Docker)
 
 <hr>
 <p align="center">
