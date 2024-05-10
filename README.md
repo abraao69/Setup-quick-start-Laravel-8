@@ -7,7 +7,7 @@
 
 
 ### Step by step
-Clone this Repository
+Clone o repositorio 
 ```sh
 git clone https://github.com/abraao69/setup-quick-start-laravel-8.git
 ```
